@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.windows": {
+        "terminal.integrated.inheritEnv": "false",
+    },
+    "python.pythonPath": "/Users/kidist/miniconda3/envs/valerio/bin/python",
+    
+}
